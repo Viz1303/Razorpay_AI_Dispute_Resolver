@@ -87,4 +87,3 @@ Created as a portfolio project to demonstrate AI product management thinking for
 
 **Author:** Vishal Arasu
 **LinkedIn:** https://www.linkedin.com/in/vishal-arasu-dataanalyst/
-**Other projects:** [Link to portfolio]
